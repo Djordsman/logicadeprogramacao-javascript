@@ -1,0 +1,4 @@
+let nascimento = 1989;
+var anoAtual = 2026;
+idade = anoAtual - nascimento;
+console.log("Em Novembro dia 17, farei "+idade+" anos.");
